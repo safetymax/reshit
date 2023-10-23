@@ -4,7 +4,8 @@
     <title>reshit</title>
 </head>
 <body>
-    <h1>reshit</h1>
-    <p>reshit</p>
+    <div style="text-align: center;">
+        <button style="font-size: 100px;">reshit</button>
+    </div>
 </body>
 </html>
